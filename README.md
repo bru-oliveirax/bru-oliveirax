@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Bruna Oliveira </h1>  
+<h2 align="left">Hello World, I'm Bruna Oliveira </h2>  
 
 - I'm a computer engineering student at Federal University of Uberlândia
 - I'm currently a trainee at EPTA - Equipe de Propulsão e Tecnologia Aeroespacial 🚀
