@@ -6,6 +6,6 @@ Passionate about technology and the impact it can have on every person's life, o
 
 - 🚀 I'm member of Avionics  at [EPTA](https://www.instagram.com/equipe_epta/)
 - 📖 I'm a computer engineering student at Federal University of Uberlândia
-- 🌎 Eu falo português, I speak English and je parle un peau de français aussi
+- 🌎 Eu falo português, I speak English and je parle un peu de français aussi
 - 💡 I'm open for new opportunities!
 - ☕️ About me: coffee, football, dog. Give me one of these and make me happy
