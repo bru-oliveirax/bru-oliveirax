@@ -6,7 +6,7 @@
   <a href="https://br.linkedin.com/in/bruna-i-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-<img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width = "250px" align="right">
+<img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width = "225px" align="right">
 
 Passionate about technology and the impact it can have on every person's life,\
 overcoming challenges and making the world a better place to be in.
@@ -36,8 +36,8 @@ with an emphasis on Computer Vision at [LASEC](https://www.instagram.com/lasecuf
 
 <div align="center">
   <a href="https://github.com/bru-oliveirax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bru-oliveirax&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru-oliveirax&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bru-oliveirax&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru-oliveirax&layout=compact&langs_count=7&theme=dark"/>
 
   ![Snake animation](https://github.com/bru-oliveirax/bru-oliveirax/blob/output/github-contribution-grid-snake.svg)
 </div>
