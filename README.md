@@ -11,10 +11,10 @@
 Passionate about technology and the impact it can have on every person's life,\
 overcoming challenges and making the world a better place to be in.
 
-- ✈️ I'm a Software Developer Intern at [Embraer] (https://embraer.com/)
+- ✈️ I'm a Software Developer Intern at [Embraer](https://embraer.com/)
 - 💻 I'm currently doing research in the area of Autonomous Robot Navigation,\
   with an emphasis on Computer Vision at [LASEC](https://www.instagram.com/lasecufu/)
-- 🚀 I'm member of Avionics, Payload and Research Directory at [EPTA](https://www.instagram.com/equipe_epta/)
+- 🚀 I'm member of Avionics and Payload at [EPTA](https://www.instagram.com/equipe_epta/)
 - 📖 I'm a computer engineering student at Federal University of Uberlândia
 - 🌎 Eu falo português, I speak English and je parle un peu de français aussi
 - 💡 I'm open for new opportunities!
