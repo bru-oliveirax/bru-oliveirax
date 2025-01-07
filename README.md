@@ -6,7 +6,7 @@
   <a href="https://br.linkedin.com/in/bruna-i-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     Software developer at Embraer and about to graduate in Computer Engineering. I have a strong interest in embedded systems, IoT, computer vision, microservices, networks and communication protocols. I’m passionate about technology and its potential to impact people’s lives. For me, programming is the key to turning ideas into reality, transforming concepts into meaningful projects. I also prioritize following the best development practices, ensuring clean, efficient, and sustainable code. That’s what inspires me, and I believe it’s truly rewarding!
   </div>
